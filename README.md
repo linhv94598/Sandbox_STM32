@@ -1,4 +1,4 @@
-(Nothing here. Under construction.)
+(Under construction.)
 
 Examples STM32 code using libopencm3.
 
